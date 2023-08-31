@@ -1,9 +1,10 @@
 # EMPLOYEE-PORTAL-APP (CRUD Operation)
 
 In this employee portal app we are performing the CRUD(Create,Read,Update,Delete) operation with employee data. It is used for managing employee-related information
-and manipulating data.
+and manipulating data. In this app i have used some angular concept like forms, ngModel for two two way data binding, DropDown and Typescript. 
 
-UI Overview- 
+UI Overview-
+
  
 
 
