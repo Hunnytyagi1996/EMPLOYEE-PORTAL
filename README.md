@@ -5,6 +5,9 @@ and manipulating data. In this app i have used some angular concept like forms, 
 
 UI Overview-
 
+
+so first I create a form to get data from employee by using ngForm which contain fields like  name, technology, designation, skills, company. 
+
  
 
 
