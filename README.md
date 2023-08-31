@@ -1,4 +1,14 @@
-# EMPLOYEEPORTAL
+# EMPLOYEE-PORTAL-APP (CRUD Operation)
+
+In this employee portal app we are performing the CRUD(Create,Read,Update,Delete) operation with employee data. It is used for managing employee-related information
+and manipulating data.
+
+UI Overview- 
+ 
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
