@@ -8,8 +8,8 @@ UI Overview-
 Functionality:
 so first I create a  form to get data from an employee by using ngForm and  i have used some angular concept like Template-Driven Forms, ngModel for  two way data binding, Validation for form fields, DropDown and Typescript.
 
-1. Create: When an employee fill all the form fields and click on save button internally we are calling onSave() method that is responsible to create record in Employee 
-           List(LocalStorage). 
+1. Create: When an employee fill all the form fields and submit form field data when a save button is clicked internally we are calling onSave() method that is responsible to create 
+           record in Employee List(LocalStorage). 
 2. Read  : To achieve read functionality  I have used get method to read data from LocalStorage.  The read operation would be used to display details of employees, their profiles.
 3. Update: In Update operation employee can edit the relevant fields in their profile and after updation it push data  back to the LocalStorage.Updating allows for modifying existing 
            data  in the system.
