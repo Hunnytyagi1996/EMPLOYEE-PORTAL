@@ -3,7 +3,7 @@
 In this employee portal app we are performing the CRUD(Create,Read,Update,Delete) operation with employee data.  This operation would involve adding new employee profiles to the LocalStorage. This could include entering details such as the employee's name, designation, technology, company and other relevant information. 
 
 UI Overview-
-![Screenshot (9)](https://github.com/Hunnytyagi1996/EMPLOYEE-PORTAL-APP/assets/48430498/ca53895b-5721-4bd4-beb1-da19247dc744)
+![Screenshot (13)](https://github.com/Hunnytyagi1996/EMPLOYEE-PORTAL-APP/assets/48430498/ce8267e7-83b6-4f0b-8ca5-fcbeea19d35b)
 
 Functionality:
 so first I create a  form to get data from an employee by using ngForm and  i have used some angular concept like Template-Driven Forms, ngModel for  two way data binding, Validation for form fields, DropDown and Typescript.
@@ -13,14 +13,16 @@ so first I create a  form to get data from an employee by using ngForm and  i ha
 2. Read  : To achieve read functionality  I have used get method to read data from LocalStorage.  The read operation would be used to display details of employees, their profiles.
 3. Update: In Update operation employee can edit the relevant fields in their profile and after updation it push data  back to the LocalStorage.Updating allows for modifying existing 
            data  in the system.
-4. Delete :Delete operation might be used when an employee leaves the company or if duplicate records are identified.       
+4. Delete :Delete operation might be used when an employee leaves the company or if duplicate records are identified.
 
-Project Technologies - 
-1. Angular
-2. Typescript
+ For styling I have used CSS, Html, Bootstrap to create layout of Employee app.        
+
+Project Technologies -                                          
+1. Angular Framework                                              
+2. CSS
 3. HTML
-4. CSS
-5. Bootstrap
+4. Bootstrap
+5. Typescript
 6. Javascript
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
