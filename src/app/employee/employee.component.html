@@ -137,8 +137,8 @@
                                     <td>{{item.Skill}}</td>
                                     <td>{{item.Core}}</td>
                                     <td>{{item.Company}}</td>
-                                    <td><i class="fa fa-pencil-square" (click)="onEdit(item)" aria-hidden="true"></i> 
-                                       <i class="fa fa-trash" (click)="onDelete(item)" aria-hidden="true"></i>
+                                    <td><i class="fa fa-pencil-square"  (click)="onEdit(item)" aria-hidden="true"></i> 
+                                       <i class="fa fa-trash" id="deleteIcon" (click)="onDelete(item)" aria-hidden="true"></i>
                                    </td>
                                </tr>
                             </ng-container>
